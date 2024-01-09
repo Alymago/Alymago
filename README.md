@@ -1,8 +1,6 @@
 ### Olá, eu sou Alysson Manoel Godoy, Estudante de Programação e CyberSecurity 👨‍💻.
 
 - 🌱 Estudando JavaScript.
-- 🌱 Estudando Python.
-- 🌱 Estudando C#.
 - 📚 Cursando Segurança da Informação 🔒
 
 <div style="display: inline_block"><br>
